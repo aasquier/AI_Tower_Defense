@@ -1,5 +1,5 @@
 ### AI_Tower_Defense
-Artificial Intelligence Project PSU 2019 AI Tower Defense Game
+Artificial Intelligence Project PSU 2019 AI Tower Defense Game   Aaron Squier, Cole Cofer, et al.
 
 ### Mac Setup
 Install the following packages:
